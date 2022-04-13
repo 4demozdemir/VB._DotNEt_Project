@@ -1,2 +1,2 @@
 # VB_DotNEt_Graphic_Project
-VB.net grafik tablo projesi
+VB.net chart table project
