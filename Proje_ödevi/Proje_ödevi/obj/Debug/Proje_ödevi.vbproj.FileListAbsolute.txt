@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\2018730064_Adem_Özdemir\Proje_ödevi\Proje_ödevi\bin\Debug\grafik.mdb
+C:\Users\Asus\Desktop\2018730064_Adem_Özdemir\Proje_ödevi\Proje_ödevi\bin\Debug\Proje_ödevi.exe.config
+C:\Users\Asus\Desktop\2018730064_Adem_Özdemir\Proje_ödevi\Proje_ödevi\bin\Debug\Proje_ödevi.exe
+C:\Users\Asus\Desktop\2018730064_Adem_Özdemir\Proje_ödevi\Proje_ödevi\bin\Debug\Proje_ödevi.pdb
+C:\Users\Asus\Desktop\2018730064_Adem_Özdemir\Proje_ödevi\Proje_ödevi\bin\Debug\Proje_ödevi.xml
+C:\Users\Asus\Desktop\2018730064_Adem_Özdemir\Proje_ödevi\Proje_ödevi\obj\Debug\Proje_ödevi.Form1.resources
+C:\Users\Asus\Desktop\2018730064_Adem_Özdemir\Proje_ödevi\Proje_ödevi\obj\Debug\Proje_ödevi.Resources.resources
+C:\Users\Asus\Desktop\2018730064_Adem_Özdemir\Proje_ödevi\Proje_ödevi\obj\Debug\Proje_ödevi.vbproj.GenerateResource.cache
+C:\Users\Asus\Desktop\2018730064_Adem_Özdemir\Proje_ödevi\Proje_ödevi\obj\Debug\Proje_ödevi.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\2018730064_Adem_Özdemir\Proje_ödevi\Proje_ödevi\obj\Debug\Proje_ödevi.exe
+C:\Users\Asus\Desktop\2018730064_Adem_Özdemir\Proje_ödevi\Proje_ödevi\obj\Debug\Proje_ödevi.xml
+C:\Users\Asus\Desktop\2018730064_Adem_Özdemir\Proje_ödevi\Proje_ödevi\obj\Debug\Proje_ödevi.pdb
+C:\Users\Asus\Desktop\2018730064_Adem_Özdemir\Proje_ödevi\Proje_ödevi\obj\Debug\Proje_ödevi.vbprojAssemblyReference.cache
